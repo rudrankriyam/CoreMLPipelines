@@ -1,4 +1,6 @@
 # CoreMLPipelines
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/CoreMLPipelines&type=Date)](https://star-history.com/#rudrankriyam/CoreMLPipelines&Date)
+
 <p align="leading">
     <img src="https://img.shields.io/badge/macOS-15.0-blue" />
     <img src="https://img.shields.io/badge/iOS-18.0-blue" />
