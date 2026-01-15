@@ -1,5 +1,4 @@
 # CoreMLPipelines
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/CoreMLPipelines&type=Date)](https://star-history.com/#rudrankriyam/CoreMLPipelines&Date)
 
 <p align="leading">
     <img src="https://img.shields.io/badge/macOS-15.0-blue" />
@@ -50,3 +49,5 @@ USAGE: coremltoolkit-cli chat [--model <model>]
 OPTIONS:
   --model <model>         Hugging Face repo ID (e.g. 'finnvoorhees/coreml-Llama-3.2-1B-Instruct-4bit')
 ```
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/CoreMLPipelines&type=Date)](https://star-history.com/#rudrankriyam/CoreMLPipelines&Date)
